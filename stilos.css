@@ -1,0 +1,35 @@
+.imagen{
+    height: 700px;
+}
+
+.color{
+    background-image: url("img/fondook.png");
+    height: 400px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.color2{
+    background-image: url("img/eme.jpg");
+    height: 400px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.color3{
+    background-color: rgb(221, 34, 27);
+}
+
+.texto{
+    color: gold;
+}
+
+.icono{
+    width: 18px;
+    height: 20px;
+}
+
+.parrafo{
+    color:white;
+    font-size: 2em;
+}
